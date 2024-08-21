@@ -1,4 +1,5 @@
 # Questions, Codes & Their Solutions
+
 ## Try these questions on your own before you head to the solutions. 
 
 Q1: Registers
